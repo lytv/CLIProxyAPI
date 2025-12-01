@@ -30,3 +30,7 @@ GEMINI.md
 .vscode/*
 .claude/*
 .serena/*
+
+
+#Ignore cursor AI rules
+.cursor/rules/codacy.mdc
